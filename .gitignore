@@ -1,0 +1,7 @@
+*.pyc
+*.pyo
+__pycache__
+cluster-location
+salinity-centroids
+temperature-centroids
+argo-profiles
