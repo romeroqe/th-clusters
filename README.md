@@ -3,7 +3,7 @@
 <a href="http://creativecommons.org/licenses/by/4.0/"><img src="https://shields.io/github/license/romeroqe/th-clusters" alt="License"></a>
 <a href="https://doi.org/10.5281/zenodo.10038645"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.10038645.svg" alt="DOI"></a>
 
-This repository has the data sets containing temperature and salinity centroids, in addition to the location of the thermohaline, temperature and salinity clusters described in a scientific publication that is currently under review. The data set has the position of centroids of 2 to 50 clusters of Conservative Temperature, Absolute Salinity and Thermohaline, which allows delimiting coherent thermohaline structures in the global ocean at different spatial scales. The repository also contains demo notebooks of the use of these clusters and the procedures described in the manuscript.
+This repository has the data sets containing temperature and salinity centroids, in addition to the location of the thermohaline, temperature and salinity clusters described in a scientific publication. The data set has the position of centroids of 2 to 50 clusters of Conservative Temperature, Absolute Salinity and Thermohaline, which allows delimiting coherent thermohaline structures in the global ocean at different spatial scales. The repository also contains demo notebooks of the use of these clusters and the procedures described in the manuscript.
 
 ## Datasets
 In the `cluster-location.zip` there are the CSV files that contain the location of the salinity, temperature and thermohaline clusters, with the headers:
