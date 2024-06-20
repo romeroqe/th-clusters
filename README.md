@@ -28,7 +28,9 @@ To view the demos, go to each notebook and run it:
 
 ## How to cite
 
-The manuscript is currently under review.
+If you use this repository, please include a reference to the following:
+
+> Romero, E., Portela, E., Tenorio-Fernandez, L., and Sánchez-Velasco, L.: Detection of coherent thermohaline structures over the global ocean using clustering, Deep-Sea Res. I: Oceanogr. Res. Pap., 104344, https://doi.org/10.1016/j.dsr.2024.104344, 2024.
 
 ## Argo data acknowledgment
 Argo data were collected and made freely available by the International Argo Program and the national programs that contribute to it. ([http://www.argo.ucsd.edu](http://www.argo.ucsd.edu), [http://argo.jcommops.org](http://argo.jcommops.org)). The Argo Program is part of the Global Ocean Observing System.
