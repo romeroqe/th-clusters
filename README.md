@@ -28,8 +28,9 @@ To view the demos, go to each notebook and run it:
 
 ## How to cite
 
-If you use this repository, please include a reference to the following:
-
+> [!IMPORTANT]
+> _If you use this repository, please include a reference to the following:_
+> 
 > Romero, E., Portela, E., Tenorio-Fernandez, L., and Sánchez-Velasco, L.: Detection of coherent thermohaline structures over the global ocean using clustering, Deep-Sea Res. I: Oceanogr. Res. Pap., 104344, https://doi.org/10.1016/j.dsr.2024.104344, 2024.
 
 ## Argo data acknowledgment
